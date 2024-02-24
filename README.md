@@ -1,6 +1,6 @@
 # Robust Approximate Sampling via Stochastic Gradient Barker Dynamics
 
-This repo contains the files containing the necessary R code to replicate all the experiments in the article "Robust Approximate Sampling via Stochastic Gradient Barker Dynamics". 
+This repo contains the files containing the necessary R code to replicate all the experiments in the article **Robust Approximate Sampling via Stochastic Gradient Barker Dynamics**. 
 
 Experiments were run on a laptop with 11th Gen Intel(R) Core(TM) i7-1165G7 2.80 GHz using R version 4.3.1.
 
